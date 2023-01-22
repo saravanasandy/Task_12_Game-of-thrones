@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/952/530/413/tv-show-game-of-thrones-dragon-jon-snow-night-king-game-of-thrones-hd-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#browser{
+    padding: 10px;
+    width: 380px;
+    margin: 0px 5px ;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-color: rgb(0, 255, 140);
+    outline: none;
+}
+#browser:focus{
+    outline: none;
+    border-color: rgb(0, 255, 221);
+}
+
